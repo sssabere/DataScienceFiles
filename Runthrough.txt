@@ -1,0 +1,41 @@
+This file will gather all the material covered in the assignments and exams:
+Assignment 1-reading a file and parse it with cvd;
+            -probability and distribution problems,thresholds;
+            -empirical analysis;
+Assignment 2-Markov chain analysis,irreducibility,stationary distribution;
+            -Multi dimension constrained optimization(log);
+            -Maximum Likelihood estimation using derivatives;
+            -Random Variable generation and Transformation,Accept reject Sampler(algorithm 1 in tfds,it considers hull-Dobell theorem);
+Assignment 3-Reading a file and parse it with cvd but more advanced;
+            -Training a dataframe through a model;
+            -Training a model with splits;
+            -Implementation of a final loss function;
+            -Train a calibration model using a Decision Tree Regressor;
+Assignment 4-Model Analysis through a classification problem;
+            -Training a model, splitting, count vectorizer, logistic regression, pipeline;
+            -precision and recall of a class;
+            -defining a cost function,optimal threshold of the cost;
+            -confidence interval using Hoeffdings inequality;
+            -same thing but with Bennets inequality;
+
+Exams:
+-2024
+    -Rejection Sampler, Monte Carlo integration,Hoeffdings Inequality,Rejection Sampler but a lil harder;
+    -Model Training:splitting, logistic regression derivative and final loss function Implementation, calibration using DecisionTreeRegressor
+    0-1 test loss;
+    -Markov Chains:Transition Matrix,Irreducibility,if its aperiodic or not,period for each state,stationary distribution,reversibility;
+-2023
+    -Markov Chains(similar to the previous);
+    -Model trainning, splitting, plotting also, Mean Absolute Error;
+    -Model trainning splitting,poisson regression,loss inside poisson regression;
+-2022
+    -Probabilities calculation,thresholds;
+    -Random variable generation and transformation:Linear Congruential Generator(Hull-Dobell),Accept-Reject Sampler;
+    -Empirical analysis;
+    -Probability, Hoeffdings inequality;
+    -Markov chain(similar to previous);
+    -Blackbox testing(precision,recall,Hoeffdings inequality,acuracy(1-0 loss),classifier with VC-dimension 3);
+    
+
+
+    
